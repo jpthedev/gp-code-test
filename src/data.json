@@ -1,0 +1,21 @@
+{
+
+    "components": {
+        "filterBar": {
+            "labels": {
+                "departmentText": "Department",
+                "empIdText": "Employee Id",
+                "submitCta": "Get Details",
+                "clearCta": "Clear"
+            }
+        },
+        "empDetails": {
+            "labels": {
+                "loader": "loading...",
+                "idText": "ID",
+                "nameText": "Name"
+            }
+        }
+    }
+
+}
